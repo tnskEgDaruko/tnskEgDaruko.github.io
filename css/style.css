@@ -232,6 +232,8 @@ section h2 {
 }
 #works .works-box a .works-box-inner
 {
+    width: 100%;
+    
     position: absolute;
     top: 0;
     left: 0;
@@ -242,6 +244,8 @@ section h2 {
 }
 #works .works-box a .works-box-inner div
 {
+    width: 100%;
+    
     position: absolute;
     top: 0;
     right: 0;
